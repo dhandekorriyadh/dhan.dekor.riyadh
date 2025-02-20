@@ -1,15 +1,5 @@
 [
   {
-    "video": "assets/videos/video_tow.mp4", 
-    "category": "video",
-    "type": "video"
-  },
-  {
-    "video": "assets/videos/video_three.mp4",
-    "category": "video",
-    "type": "video"
-  },
-  {
     "image": "https://i.postimg.cc/fLhprL22/about.jpg",
     "category": "image",
     "type": "image"
