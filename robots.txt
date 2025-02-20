@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap:https://abumalaknew.github.io/AbumalakCompany/sitemap.xml
+Sitemap:https://abuhussain-painting-ryadh.netlify.app/sitemap.xml
