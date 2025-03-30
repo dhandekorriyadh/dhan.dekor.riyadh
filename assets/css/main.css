@@ -86,7 +86,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background:#ff6f61;
+  background:lightseagreen;
   left: 0;
   right: 0;
   bottom: 0;
@@ -1062,7 +1062,7 @@ section {
 }
 
 .hero .btn-get-started:hover {
-  background: #2C5576; /* لون أزرق أغمق عند التمرير */
+  background: #ff6f61; /* لون أزرق أغمق عند التمرير */
   border-color: #2C5576;
 }
 
@@ -1118,7 +1118,7 @@ section {
   padding: 60px 30px;
   position: relative;
   overflow: hidden;
-  background:#f88c82;
+  background:lightseagreen;
   box-shadow: 0 0 29px 0 rgba(0, 0, 0, 0.08);
   transition: all 0.3s ease-in-out;
   border-radius:25px 0 0 25px;
@@ -1198,46 +1198,6 @@ section {
   background-color: rgba(255, 255, 255, 0.7); /* تغيير لون الأسهم */
 }
 
-
-/*--------------------------------------------------------------
-# Blog
---------------------------------------------------------------*/
-.blog .blog-pagination {
-  margin-top: 30px;
-  color: #555555;
-}
-
-.blog .blog-pagination ul {
-  display: flex;
-  padding: 0;
-  margin: 0;
-  list-style: none;
-}
-
-.blog .blog-pagination li {
-  margin: 0 5px;
-  transition: 0.3s;
-  border-radius: 10px;
-}
-
-.blog .blog-pagination li a {
-  color: var(--color-default);
-  padding: 7px 16px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.blog .blog-pagination li.active,
-.blog .blog-pagination li:hover {
-  background: var(--color-primary);
-  color: #fff;
-}
-
-.blog .blog-pagination li.active a,
-.blog .blog-pagination li:hover a {
-  color: var(--color-white);
-}
 
 
 /*--------------------------------------------------------------
