@@ -1,0 +1,54 @@
+{
+  "title": "أفضل دهانات وديكورات في الرياض | معلم دهانات وديكورات بالرياض | خدمات دهانات داخلية وخارجية بالرياض ابو فهمي",
+  "keywords": "دهانات الرياض, ديكورات الرياض, دهانات وديكورات الرياض, أفضل دهانات بالرياض, معلم دهانات بالرياض, دهانات داخلية وخارجية بالرياض, دهانات للمنازل بالرياض, تصميم ديكورات جبسية بالرياض, دهانات الفلل بالرياض, ترميم الفلل بالرياض, خدمات دهانات وديكورات في الرياض, خدمات دهانات عالية الجودة بالرياض",
+  "author": "أبو فهمي للدهانات والديكورات",
+  "description": "احصل على أفضل خدمات دهانات وديكورات داخلية وخارجية في الرياض. نحن متخصصون في تصميم ديكورات جبسية وترميم الفلل. نقدم خدمات عالية الجودة لجميع مناطق الرياض.",
+  "robots": "index, follow",
+  "canonical": "https://dhandekorriyadh.netlify.app/",
+  "og": {
+    "locale": "ar_AR",
+    "type": "website",
+    "title": "أفضل دهانات وديكورات في الرياض | معلم دهانات وديكورات بالرياض",
+    "description": "خدمات دهانات وديكورات داخلية وخارجية عالية الجودة في الرياض. نحن متخصصون في تصميم ديكورات جبسية وترميم الفلل، بالإضافة إلى خدمات دهانات متميزة في جميع مناطق الرياض.",
+    "url": "https://dhandekorriyadh.netlify.app/",
+    "site_name": "دهانات وديكورات الرياض",
+    "image": "https://i.postimg.cc/X7h2PqXf/IMG-20250218-WA0042.jpg"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "description": "أحصل على أفضل خدمات دهانات وديكورات داخلية وخارجية في الرياض. نحن متخصصون في ديكورات جبسية، ترميم الفلل، وخدمات دهانات عالية الجودة في جميع مناطق الرياض.",
+    "title": "أفضل دهانات وديكورات في الرياض | معلم دهانات وديكورات بالرياض",
+    "image": "https://i.postimg.cc/X7h2PqXf/IMG-20250218-WA0042.jpg",
+    "url": "https://dhandekorriyadh.netlify.app/"
+  },
+  "schema": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "دهانات وديكورات الرياض",
+    "url": "https://dhandekorriyadh.netlify.app/",
+    "logo": "https://i.postimg.cc/X7h2PqXf/IMG-20250218-WA0042.jpg",
+    "contactPoint": [{
+      "@type": "ContactPoint",
+      "telephone": "+966550852093",
+      "contactType": "customer service",
+      "areaServed": "SA",
+      "availableLanguage": "Arabic"
+    }],
+    "sameAs": [
+      "https://www.facebook.com/dhandekorriyadh",
+      "https://twitter.com/dhandekorriyadh",
+      "https://www.instagram.com/dhandekorriyadh"
+    ]
+  },
+  "additional_metadata": {
+    "sitemap": "https://dhandekorriyadh.netlify.app/sitemap.xml",
+    "hreflang": {
+      "href": "https://dhandekorriyadh.netlify.app/",
+      "lang": "ar-sa"
+    },
+    "favicon": "https://i.postimg.cc/X7h2PqXf/IMG-20250218-WA0042.jpg",
+    "apple_touch_icon": "https://i.postimg.cc/X7h2PqXf/IMG-20250218-WA0042.jpg",
+    "meta_rating": "General",
+    "meta_copyright": "جميع الحقوق محفوظة لموقع دهانات وديكورات الرياض | © 2025"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "site_name": {
+    "site_n": "أبو فهمي"
+  },
+  "contact_info": {
+    "phone": "966550852093",
+    "phone_tel": "tel:966550852093",
+    "phone_wat": "https://wa.me/966550852093",
+    "location": "المملكة العربية السعودية ـ الرياض",
+    "working_hours": "الساعة 7:00 صباحا الى الساعة 10:00 مساء"
+  },
+    "social_links": {
+      "twitter": "https://twitter.com/example",
+      "facebook": "https://facebook.com/example",
+      "instagram": "https://instagram.com/example",
+      "linkedin": "https://linkedin.com/example"
+    }
+  }
