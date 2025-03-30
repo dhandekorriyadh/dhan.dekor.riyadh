@@ -39,21 +39,12 @@
 .review .card {
 	background-color: lightseagreen;
 	color:black;
-	padding: 3em 0;
-	border: 0;
-	border-radius: 4em 0;
-	background: linear-gradient(to left, #ffb7b1 50%, rgb(239, 250, 249) 50%);
-	background-size: 200%;
-	background-position: right;
-	transition: all .5s;
-	box-shadow: 0 10px 30px rgba(252, 248, 248, 0.8); /* زيادة العمق والتوهج */
-  height:300px; /* تحديد ارتفاع ثابت */
-  width: 240px; /* تحديد عرض ثابت */
   overflow: hidden; /* لمنع الصورة من الخروج خارج الإطار */
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding:10px;
   }
 
   .review .card:hover{
